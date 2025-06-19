@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "dev": "npx ts-node ./src/merge.ts",
-    "test": "npx jest"
+    "dev": "ts-node ./src/merge.ts",
+    "test": "jest"
   },
   "keywords": [],
   "author": "",
